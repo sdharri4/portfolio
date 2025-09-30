@@ -1,1 +1,2 @@
-# portfolio
+AI python project
+
